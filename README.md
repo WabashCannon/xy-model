@@ -1,2 +1,2 @@
 # xy-model
-A small simulator of the XY model
+A small project created while learning Qt. This is a basic simulator for the XY-model.
